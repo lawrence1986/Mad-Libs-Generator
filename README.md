@@ -3,7 +3,7 @@
 * The Mad Libs Generator gathers and manipulates user input data as an adjective, a pronoun, and a verb.
 * The program takes this data and arranges it to build a story.
 
-# Terminologies Used
+# Code Breakdown
 * Here's a breakdown of the code line by line:
 
 * `def mad_libs():`: This line defines a function called `mad_libs` without any parameters. This function will generate the Mad Libs sentence based on user inputs.
