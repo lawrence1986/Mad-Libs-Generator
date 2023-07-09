@@ -3,6 +3,18 @@
 * The Mad Libs Generator gathers and manipulates user input data as an adjective, a pronoun, and a verb.
 * The program takes this data and arranges it to build a story.
 
+## Getting Started
+* Clone or download the repository to your local machine.
+
+* Open a terminal or command prompt and navigate to the project directory.
+
+* Run the following command to start the Mad Libs generator: python mad_libs_gen.py or python mlb2.py or python mlb3.py
+
+Enter the user input prompts.
+
+The script will continuously take data & arranges it to build a story!".
+
+To stop the script, press Ctrl+C in the terminal or command prompt.
 # Code Breakdown
 * Here's a breakdown of the code line by line:
 
