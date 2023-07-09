@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 def mad_libs():
     noun = input("Enter a noun: ")
     verb = input("Enter a verb: ")
