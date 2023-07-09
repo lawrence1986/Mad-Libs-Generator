@@ -24,9 +24,9 @@
 
 * When you run the code, it will prompt you to enter a noun, verb, adjective, and adverb. After you provide the inputs, it will construct a sentence using those inputs and print it out.
 
-#mlb2.py has same concept as mad_libs_gen.py
+## mlb2.py has same concept as mad_libs_gen.py
 
-#mlb3 script is explained below
+## mlb3 script is explained below
 Here's a breakdown of the code for mlb3.py line by line:
 
 * `print('Mad Libs Generator')`: This line simply prints the title of the Mad Libs generator to the console.
