@@ -22,4 +22,4 @@
 
 *  `mad_libs()`: This line calls the `mad_libs` function, starting the execution of the Mad Libs generator.
 
-## When you run the code, it will prompt you to enter a noun, verb, adjective, and adverb. After you provide the inputs, it will construct a sentence using those inputs and print it out.
+* When you run the code, it will prompt you to enter a noun, verb, adjective, and adverb. After you provide the inputs, it will construct a sentence using those inputs and print it out.
